@@ -36,6 +36,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   provider: ^4.0.0
   image_picker: ^0.6.7
+  path_provider: ^1.1.0 #this helps us with finding path
+  path: ^1.6.2    #this package helps us with combining paths
 
 dev_dependencies:
   flutter_test:
