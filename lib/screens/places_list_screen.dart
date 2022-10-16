@@ -3,7 +3,7 @@ import 'package:great_places/providers/great_places.dart';
 import 'package:great_places/screens/add_place_screen.dart';
 import 'package:provider/provider.dart';
 
-//this is the first scren
+//this is the first screen of the app
 class PlacesListScreen extends StatelessWidget {
   const PlacesListScreen({Key key}) : super(key: key);
 
