@@ -12,7 +12,7 @@ class _LocationInputState extends State<LocationInput> {
     final locData = await Location().getLocation();
     print(locData.longitude);
     print(locData.latitude);
-
+//hello
 
   }
 
