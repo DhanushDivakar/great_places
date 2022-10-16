@@ -38,7 +38,8 @@ dependencies:
   image_picker: ^0.6.7
   path_provider: ^1.1.0 #this helps us with finding path
   path: ^1.6.2    #this package helps us with combining paths
-
+  sqflite: ^1.1.5
+  location: ^2.3.5
 dev_dependencies:
   flutter_test:
     sdk: flutter
